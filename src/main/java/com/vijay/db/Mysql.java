@@ -22,7 +22,7 @@ public class Mysql {
 				return;
 			}
 
-			System.out.println("MySQL JDBC Driver Registered!");
+			System.out.println("MySQL JDBC Driver Registered is git checkedin!");
 			
 
 			try {
